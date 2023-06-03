@@ -8,7 +8,6 @@ En este repositorio encontrarás una variedad de desafíos y proyectos organizad
 - Análisis de Datos: Desafíos centrados en la exploración y el análisis de datos utilizando DBT.
 - Modelado y Transformación: Desafíos avanzados para crear modelos complejos y realizar transformaciones sofisticadas en los datos.
 
-Cada carpeta de desafío contiene un archivo README con instrucciones detalladas sobre el desafío específico, junto con los requisitos y pasos necesarios para completarlo. Te animamos a explorar los desafíos, probar diferentes enfoques y mejorar tus habilidades en DBT y análisis de datos.
 
 ## Requisitos
 Para trabajar en los desafíos de este repositorio, necesitarás tener instalado DBT en tu entorno de desarrollo. Asegúrate de seguir las instrucciones de instalación de DBT antes de comenzar.
